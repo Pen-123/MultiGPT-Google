@@ -1,3 +1,4 @@
-aiohttp>=3.9.0
-requests>=2.31.0
-tzdata>=2023.3
+flask
+aiohttp
+requests
+gunicorn
